@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Rafael\Documents\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
