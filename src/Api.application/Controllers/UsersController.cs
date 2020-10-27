@@ -3,6 +3,7 @@ using System.Net;
 using System.Threading.Tasks;
 using Api.Domain.Entities;
 using Api.Domain.Interfaces.services.User;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.application.Controllers
@@ -17,6 +18,7 @@ namespace Api.application.Controllers
             _service = service;
         }
 
+        [Authorize("Bearer")]
         [HttpGet]
         public async Task<ActionResult> GetAll()
         {
@@ -35,6 +37,8 @@ namespace Api.application.Controllers
             }
         }
         //localhost:5000/api/users/234424234234324
+
+        [Authorize("Bearer")]
         [HttpGet]
         [Route("{api}", Name = "GetWithId")]
         public async Task<ActionResult> Get(Guid id)
@@ -54,6 +58,7 @@ namespace Api.application.Controllers
             }
         }
 
+        [Authorize("Bearer")]
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] UserEntity user)
         {

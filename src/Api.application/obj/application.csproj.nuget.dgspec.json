@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.application\\application.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.application\\application.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.application\\application.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.application\\application.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.application\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,14 +28,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -49,6 +49,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
@@ -81,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -105,14 +109,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -150,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -174,8 +178,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -229,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -263,6 +267,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -282,14 +292,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -306,11 +316,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
