@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KufwO/Ms5JgcMP+pSj3lEXxWsrJ+6Sotl8h97Q1sdx0f+tB0yDBJS0zC5GCjiAhzRnNVKPA23G7a75YU0SDe2Q==",
+  "dgSpecHash": "rYWn0MuLMx/TngsPPA6nuXm7tasNV9PdK5LF0PwNZUz07Jjad801MFrQJszdMsTdLHQTwqr1BxNsj1W+dKl6Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

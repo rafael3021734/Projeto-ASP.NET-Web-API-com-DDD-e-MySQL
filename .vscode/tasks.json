@@ -36,6 +36,18 @@
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ]            
+        },
+        {
+            "label": "Service.Testes",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "test",
+                "run",
+                "${workspaceFolder}/src/Api.Service.Test/Api.Service.Test.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ]            
         }
     ]
 }

@@ -8019,8 +8019,8 @@
     },
     "application/1.0.0": {
       "type": "project",
-      "path": "../Api.application/application.csproj",
-      "msbuildProject": "../Api.application/application.csproj"
+      "path": "../api.application/application.csproj",
+      "msbuildProject": "../api.application/application.csproj"
     },
     "CrossCutting/1.0.0": {
       "type": "project",
@@ -8087,8 +8087,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj"
+            "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj": {
+              "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj"
             },
             "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj": {
               "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj"

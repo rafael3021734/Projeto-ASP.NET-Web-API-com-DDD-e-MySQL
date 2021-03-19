@@ -4,14 +4,14 @@
     "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.Data.Test\\Api.Data.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -188,8 +188,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.application\\application.csproj"
+              "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\api.application\\application.csproj"
               },
               "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj": {
                 "projectPath": "C:\\Users\\Rafael\\Documents\\Projeto Asp.Net WebApi com MySQL\\src\\Api.CrossCutting\\CrossCutting.csproj"
